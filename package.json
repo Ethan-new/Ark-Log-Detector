@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "gyazo-api": "^0.3.1",
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^6.0.0",
+    "screenshot-desktop": "^1.12.7"
+  }
+}
